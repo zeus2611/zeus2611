@@ -1,16 +1,44 @@
-### Hi there 👋
+ ### hi there, i'm [Nischay](https://nischay.github.io) 
 
-<!--
-**zeus2611/zeus2611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹
+<a href="https://twitter.com/zshashz">
+  <img align="center" alt="zshashz twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+🔹
+<a href="https://www.linkedin.com/in/zshashz/">
+  <img align="center" alt="zshashz linkedin" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+🔹
+<a href="https://www.codechef.com/users/zshashz">
+  <img align="center" alt="zshashz codechef" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+🔹
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔸 19, he/him 
+🔸 Computer Science Freshman
+🔸 C/C++ | Python
+🔸 AI/ML Beginner
+🔸 Contact [@zshashz](https://twitter.com/zshashz)
+
+---
+
+Hi, i'm Shashwat Sharma, Machine Learning beginner from India.
+</br>
+<img align="right" height='180px' alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
+**Speaking of Me:**
+
+- 🌱 Currently a Computer Science and Data Sciene Double Major;
+- 🚀 Huge Space enthusiast and love reading on astrophysics;
+- ⚽ I play Football, Cricket and Table Tennis;
+- 🐉 Love learning about new cultures and can speak 4 languages;
+- ⚡️ Elon Musk has liked my tweets 9 times!
+
+---
+
+<img height='200px' src="https://github-readme-stats.vercel.app/api?username=zeus2611&show_icons=true&theme=tokyonight"><img height='200px' align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeus2611&exclude_repo=zshashz.github.io&show_icons=true&theme=tokyonight">
+
+
+---
