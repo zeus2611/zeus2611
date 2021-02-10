@@ -20,7 +20,7 @@
 🔸 Electronics and Communication Freshman
 🔸 C/C++ | Java | Python
 🔸 Android Dev Beginner
-🔸 Contact [@zshashz](https://www.linkedin.com/in/nischay-2604/)
+🔸 Contact [@nischay](https://www.linkedin.com/in/nischay-2604/)
 
 ---
 
@@ -32,7 +32,8 @@ Hi, I'm Nischay, Android Enthusiast from India.
 
 - 🌱 Currently a Electronics and Communication Major;
 - 🚀 Huge Tech enthusiast and love trying new technologies;
-- :computer:
+- :computer: Intrested in Android, AI/ML, Flutter, Cloud and CP
+- :boom: loves playing Computer Games
 
 ---
 
