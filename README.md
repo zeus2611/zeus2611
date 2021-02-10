@@ -37,7 +37,7 @@ Hi, I'm Nischay, Android Enthusiast from India.
 
 ---
 
-<img height='160px' src="https://github-readme-stats.vercel.app/api?username=zeus2611&show_icons=true&theme=radical"><img height='160px' align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeus2611&show_icons=true&theme=radical">
+<img height='170px' src="https://github-readme-stats.vercel.app/api?username=zeus2611&show_icons=true&theme=radical"><img height='160px' align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeus2611&show_icons=true&theme=radical">
 
 
 ---
