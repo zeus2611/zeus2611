@@ -2,7 +2,7 @@
 
 🔹
 <a href="https://twitter.com/">
-  <img align="center" alt="Nischay's twitter" width="44px" src="https://www.clipartmax.com/max/m2i8N4Z5m2d3Z5A0/" />
+  <img align="center" alt="Nischay's twitter" width="44px" src="https://www.clipartmax.com/png/full/114-1148299_filet-mignon-clipart.png" />
 </a>
 🔹
 <a href="https://www.linkedin.com/in/nischay-2604/">
