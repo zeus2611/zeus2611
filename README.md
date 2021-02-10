@@ -6,11 +6,11 @@
 </a>
 🔹
 <a href="https://www.linkedin.com/in/nischay-2604/">
-  <img align="center" alt="zshashz linkedin" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Nischay's LinkedIn" width="44px" src="https://www.vhv.rs/dpng/f/407-4071004_linkedin-icon-png.png" />
 </a>
 🔹
 <a href="https://www.codechef.com/users/prateek_ag">
-  <img align="center" alt="zshashz codechef" width="44px" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" />
+  <img align="center" alt="Nischay's CodeChef" width="44px" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" />
 </a>
 🔹
 
