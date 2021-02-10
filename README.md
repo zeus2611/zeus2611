@@ -5,12 +5,12 @@
   <img align="center" alt="zshashz twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 🔹
-<a href="https://www.linkedin.com/in/zshashz/">
+<a href="https://www.linkedin.com/in/nischay-2604/">
   <img align="center" alt="zshashz linkedin" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 🔹
-<a href="https://www.codechef.com/users/zshashz">
-  <img align="center" alt="zshashz codechef" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+<a href="https://www.codechef.com/users/prateek_ag">
+  <img align="center" alt="zshashz codechef" width="44px" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" />
 </a>
 🔹
 
