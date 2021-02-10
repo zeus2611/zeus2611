@@ -1,7 +1,7 @@
  ### hi there, i'm [Nischay](https://nischay.github.io) 
 
 🔹
-<a href="https://twitter.com/">
+<a href="https://twitter.com/Nischay74590699">
   <img align="center" alt="Nischay's twitter" width="44px" src="https://www.clipartmax.com/png/full/114-1148299_filet-mignon-clipart.png" />
 </a>
 🔹
@@ -17,24 +17,22 @@
 ---
 
 🔸 19, he/him 
-🔸 Computer Science Freshman
-🔸 C/C++ | Python
-🔸 AI/ML Beginner
-🔸 Contact [@zshashz](https://twitter.com/zshashz)
+🔸 Electronics and Communication Freshman
+🔸 C/C++ | Java | Python
+🔸 Android Dev Beginner
+🔸 Contact [@zshashz](https://www.linkedin.com/in/nischay-2604/)
 
 ---
 
-Hi, i'm Shashwat Sharma, Machine Learning beginner from India.
+Hi, I'm Nischay, Android Enthusiast from India.
 </br>
-<img align="right" height='180px' alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" height='180px' alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 
 **Speaking of Me:**
 
-- 🌱 Currently a Computer Science and Data Sciene Double Major;
-- 🚀 Huge Space enthusiast and love reading on astrophysics;
-- ⚽ I play Football, Cricket and Table Tennis;
-- 🐉 Love learning about new cultures and can speak 4 languages;
-- ⚡️ Elon Musk has liked my tweets 9 times!
+- 🌱 Currently a Electronics and Communication Major;
+- 🚀 Huge Tech enthusiast and love trying new technologies;
+- :computer:
 
 ---
 
