@@ -1,8 +1,8 @@
  ### hi there, i'm [Nischay](https://nischay.github.io) 
 
 🔹
-<a href="https://twitter.com/zshashz">
-  <img align="center" alt="zshashz twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/">
+  <img align="center" alt="Nischay's twitter" width="44px" src="https://www.clipartmax.com/max/m2i8N4Z5m2d3Z5A0/" />
 </a>
 🔹
 <a href="https://www.linkedin.com/in/nischay-2604/">
