@@ -6,7 +6,7 @@
 </a>
 🔹
 <a href="https://www.linkedin.com/in/nischay-2604/">
-  <img align="center" alt="Nischay's LinkedIn" width="44px" src="https://www.vhv.rs/dpng/f/407-4071004_linkedin-icon-png.png" />
+  <img align="center" alt="Nischay's LinkedIn" width="44px" src="https://www.pngfind.com/pngs/m/57-573344_linkedin-icon-image-serato-dj-pro-logo-hd.png" />
 </a>
 🔹
 <a href="https://www.codechef.com/users/prateek_ag">
