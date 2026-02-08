@@ -29,8 +29,8 @@ I'm a **Software Engineer** and **M.Tech Scholar** specializing in Backend Syste
 
 <!-- Note: These images may not show in local preview but will render on GitHub.com -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeus2611&show_icons=true&theme=radical&hide_border=true" alt="Nischay's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeus2611&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-theta-sepia-85.vercel.app/api?username=zeus2611&show_icons=true&theme=radical&hide_border=true" alt="Nischay's GitHub Stats" />
+  <img src="https://github-readme-stats-theta-sepia-85.vercel.app/api/top-langs/?username=zeus2611&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
