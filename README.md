@@ -4,8 +4,19 @@ I'm a **Software Engineer** and **M.Tech Scholar** specializing in Backend Syste
 
 - 🔭 **Currently building:** **BridgeTalk** (An AI-powered learning platform for quick & detailed performance feedback).
 - 🌱 **Learning:** Kubernetes operators, Transformers for Medical Imaging, and Explainable AI (XAI).
-- 🤝 **Open Source:** Actively contributing to **Automattic/jetpack** and the **Appwrite** ecosystem.
+- 🤝 **Open Source:** Contributing to **WordPress AI Experiments**, **Automattic/Jetpack**, **Hugging Face Transformers**, and the **Appwrite** ecosystem.
 - 🎓 **Research:** Working on Neural Networks & Signal Processing at NIT Rourkela.
+
+---
+
+### 🚀 Open Source Highlights
+
+| Project | Contribution |
+|---|---|
+| [WordPress/ai](https://github.com/WordPress/ai) | Shipped AI image generation in the Media Library — part of the v0.4.0 release |
+| [Automattic/Jetpack](https://github.com/Automattic/jetpack) | Resolved reliability issues in a WordPress plugin used by millions of sites |
+| [Hugging Face Transformers](https://github.com/huggingface/transformers) | Fixed critical model initialization bug affecting PyTorch/TensorFlow interoperability |
+| [Appwrite](https://github.com/appwrite/appwrite) | Improved serverless function templates across Node.js and Python runtimes |
 
 ---
 
@@ -27,7 +38,6 @@ I'm a **Software Engineer** and **M.Tech Scholar** specializing in Backend Syste
 
 ### 📊 GitHub Stats
 
-<!-- Note: These images may not show in local preview but will render on GitHub.com -->
 <p align="left">
   <img src="https://github-readme-stats-theta-sepia-85.vercel.app/api?username=zeus2611&show_icons=true&theme=radical&hide_border=true" alt="Nischay's GitHub Stats" />
   <img src="https://github-readme-stats-theta-sepia-85.vercel.app/api/top-langs/?username=zeus2611&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
@@ -37,4 +47,10 @@ I'm a **Software Engineer** and **M.Tech Scholar** specializing in Backend Syste
 
 ### 🔗 Connect with Me
 [<img src="https://img.shields.io/badge/Portfolio-Nischay-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://www.nischay.live)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/your-linkedin-id)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/nischay-2604)
+
+---
+
+<p align="center">
+  <sub>If my work has helped you or a project you use, consider <a href="https://github.com/sponsors/zeus2611">supporting me on GitHub Sponsors</a>. It helps me keep contributing while being a full-time student. 🙏</sub>
+</p>
