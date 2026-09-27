@@ -1,56 +1,24 @@
-### Hi there, I'm Nischay! 👋
-
-I'm a **Software Engineer** and **M.Tech Scholar** specializing in Backend Systems, Cloud Infrastructure, and Mobile Development. I love building tools that bridge the gap between complex infrastructure and developer experience.
-
-- 🔭 **Currently building:** **BridgeTalk** (An AI-powered learning platform for quick & detailed performance feedback).
-- 🌱 **Learning:** Kubernetes operators, Transformers for Medical Imaging, and Explainable AI (XAI).
-- 🤝 **Open Source:** Contributing to **WordPress AI Experiments**, **Automattic/Jetpack**, **Hugging Face Transformers**, and the **Appwrite** ecosystem.
-- 🎓 **Research:** Working on Neural Networks & Signal Processing at NIT Rourkela.
-
----
-
-### 🚀 Open Source Highlights
-
-| Project | Contribution |
+### Hi, I'm Nischay
+ 
+Software engineer working on AI products and developer tools — backend, mobile and cloud.
+Currently an intern (co-op) on AMD's Developer Experience team, and completing an M.Tech at NIT Rourkela.
+ 
+### Open source
+ 
+| Project | What I did |
 |---|---|
-| [WordPress/ai](https://github.com/WordPress/ai) | Shipped AI image generation in the Media Library — part of the v0.4.0 release |
-| [Automattic/Jetpack](https://github.com/Automattic/jetpack) | Resolved reliability issues in a WordPress plugin used by millions of sites |
-| [Hugging Face Transformers](https://github.com/huggingface/transformers) | Fixed critical model initialization bug affecting PyTorch/TensorFlow interoperability |
-| [Appwrite](https://github.com/appwrite/appwrite) | Improved serverless function templates across Node.js and Python runtimes |
-
----
-
-### 🛠️ Tech Stack
-
-**Backend & Cloud**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat&logo=appwrite&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-**Mobile & Frontend**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats-theta-sepia-85.vercel.app/api?username=zeus2611&show_icons=true&theme=radical&hide_border=true" alt="Nischay's GitHub Stats" />
-  <img src="https://github-readme-stats-theta-sepia-85.vercel.app/api/top-langs/?username=zeus2611&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 🔗 Connect with Me
-[<img src="https://img.shields.io/badge/Portfolio-Nischay-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://www.nischay.live)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/nischay-2604)
-
----
-
-<p align="center">
-  <sub>If my work has helped you or a project you use, consider <a href="https://github.com/sponsors/zeus2611">supporting me on GitHub Sponsors</a>. It helps me keep contributing while being a full-time student. 🙏</sub>
-</p>
+| [WordPress/ai](https://github.com/WordPress/ai/pulls?q=is%3Apr+author%3Azeus2611+is%3Amerged) | 6 merged PRs to the official WordPress AI plugin: [Editorial Updates](https://github.com/WordPress/ai/pull/289) (AI edits from editorial notes, block by block, with revision-based rollback), [AI image generation in the Media Library](https://github.com/WordPress/ai/pull/258) (shipped in v0.4.0), and [bulk alt-text generation](https://github.com/WordPress/ai/pull/330). |
+| [huggingface/transformers](https://github.com/huggingface/transformers/pull/34343) | Fixed batch-size handling in `Trainer.prediction_loop` for `DataLoaderShard`, which caused a `TypeError` during distributed evaluation. |
+| [appwrite/templates](https://github.com/appwrite/templates/pull/338) | Added a Python storage-cleaner function template. |
+| [activist-org/activist](https://github.com/activist-org/activist/pulls?q=is%3Apr+author%3Azeus2611+is%3Amerged) | Test coverage for group models and a runner for the i18n test suite. |
+| [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io/pull/2156) | Docs: TypeScript examples for exporters. |
+ 
+### Things I've built
+ 
+- **[BridgeTalk](https://apps.apple.com/us/app/bridgetalk-ai-enterprise/id6749461827)** — AI speaking coach for IELTS and TOEFL. Founding engineer: Flutter apps on iOS and Android, FastAPI + GCP backend, multi-tenant B2B platform. *(Closed source.)*
+- **[GCP-Billing-Alert](https://github.com/zeus2611/GCP-Billing-Alert)** — Cloud Run service that queries BigQuery billing exports and posts cost alerts to Teams. Deployed with Terraform and GitHub Actions.
+### Stack
+ 
+Python · TypeScript/React · PHP · Dart/Flutter · FastAPI · GCP · Docker · Kubernetes · LLM / RAG tooling
+ 
+[nischay.live](https://www.nischay.live) · [LinkedIn](https://linkedin.com/in/nischay-2604)
